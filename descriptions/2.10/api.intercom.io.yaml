@@ -12201,7 +12201,7 @@ components:
           enum:
           - list
           example: list
-        companies:
+        data:
           type: array
           description: An array containing Company Objects
           items:
